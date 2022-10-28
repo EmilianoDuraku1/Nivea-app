@@ -69,7 +69,7 @@ export const SmallData = [
     price: "2,49 €",
     ml: "150ml",
     mlprice: "1 l = 16,60 €",
-    active: "Sofort lieferbar",
+    active: "Sofort lieferbar cream",
   },
   // {
   //   id: 2,
