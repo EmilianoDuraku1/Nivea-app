@@ -1,0 +1,125 @@
+.user-actions {
+  color: rgb(0, 50, 160);
+
+  padding: 40px 20px 30px;
+  h3 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+    margin: 0;
+    margin-bottom: 25px;
+  }
+  .social-share {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto 10px;
+
+    .social-media {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      min-height: 70px;
+      line-height: 26px;
+      list-style-type: disc;
+      list-style: none;
+      text-align: center;
+      margin-right: 25px;
+      .facebook:hover {
+        filter: brightness(120%);
+      }
+      .facebook {
+        background-color: #33428c;
+        width: 55px;
+        height: 55px;
+        position: relative;
+        margin: 0 12px 15px;
+        border-radius: 100%;
+
+        a {
+          display: block;
+          width: 100%;
+          height: 100%;
+          transition: color 0.2s;
+        }
+
+        .fb {
+          transform: translateX(-50%) translateY(-50%);
+          left: 50%;
+          position: absolute;
+          top: 50%;
+          font-size: 30px;
+          font-weight: 600;
+          color: #fff;
+        }
+      }
+      .pinterest:hover {
+        filter: brightness(120%);
+      }
+      .pinterest {
+        display: flex;
+        align-items: center;
+        svg {
+          fill: #bd081c;
+          width: 55px;
+          height: 55px;
+          margin: 0 12px 15px;
+          cursor: pointer;
+        }
+      }
+      // .pinterest {
+      //   background-color: #bd081c;
+      //   width: 55px;
+      //   height: 55px;
+      //   position: relative;
+      //   margin: 0 12px 15px;
+      //   border-radius: 100%;
+
+      //   a {
+      //     display: block;
+      //     width: 100%;
+      //     height: 100%;
+      //     transition: color 0.2s;
+      //   }
+      //   .pi {
+      //     transform: translateX(-50%) translateY(-50%);
+      //     left: 50%;
+      //     position: absolute;
+      //     top: 50%;
+      //     font-size: 30px;
+      //     font-weight: 600;
+      //     color: #fff;
+      //   }
+      // }
+    }
+  }
+  .share-info {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 10px;
+    .info-icon {
+      svg {
+        fill: rgb(0, 50, 160);
+        width: 20px;
+      }
+    }
+    .info-txt {
+      font-size: 13px;
+      line-height: 18px;
+      text-align: left;
+    }
+  }
+}
+
+.fb::before {
+  content: "f";
+  font-size: 45px;
+}
+
+// .pi::before {
+//   content: "Ꝓ";
+// }

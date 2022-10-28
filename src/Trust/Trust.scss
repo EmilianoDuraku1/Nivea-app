@@ -1,0 +1,106 @@
+.trust-content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding-top: 56px;
+  padding-bottom: 56px;
+  position: relative;
+  background-color: rgb(214, 220, 236);
+  .slick-dots {
+    position: absolute;
+    top: -30px;
+    height: 10px;
+    display: block;
+    color: blue;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+    list-style: none;
+
+    text-align: center;
+  }
+  .trust {
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    min-width: 320px;
+    padding-right: 20px;
+    padding-left: 20px;
+    max-width: 1480px;
+    position: relative;
+    h2 {
+      font-weight: 600;
+      text-transform: uppercase;
+      line-height: 38px;
+      margin: 0;
+      margin-bottom: 40px;
+    }
+    .trust-wraper {
+      overflow: hidden;
+    }
+    .trust-iner {
+      height: 400px;
+      width: 90% !important
+      ;
+      padding-right: 14px;
+    }
+    .trust-circle {
+      display: inline-block;
+      height: 178px;
+      margin: 0 auto 20px;
+      position: relative;
+      width: 178px;
+    }
+  }
+  .circle-text {
+    color: rgb(0, 50, 160);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 50%;
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    white-space: normal;
+    width: calc(100% - 28px);
+    height: auto;
+
+    .num {
+      font-size: 58px;
+      line-height: 70px;
+      font-weight: 750;
+    }
+    .name {
+      font-size: 18px;
+      line-height: 25px;
+      font-weight: 600;
+      display: inline-block;
+      overflow-wrap: break-word;
+      white-space: normal;
+    }
+  }
+  .trust-dsc {
+    color: rgb(0, 50, 160);
+    margin: 0 30px;
+    font-size: 18px;
+    line-height: 25px;
+    white-space: normal;
+  }
+  .trust-circle::before {
+    background-color: white;
+    border-radius: 100%;
+    border: 4px solid rgb(0, 50, 160);
+    box-sizing: border-box;
+    content: "";
+    height: 180px;
+    position: absolute;
+    top: 0;
+    transform: translateX(-50%);
+    width: 180px;
+    z-index: 0;
+  }
+}
