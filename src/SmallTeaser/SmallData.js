@@ -1,7 +1,7 @@
 export const SmallData = [
   {
     id: 0,
-    src: "https://images-eu.nivea.com/-/media/media-center-items/2/2/a/a7e79ab9d9d945e0a68b7dd7c3359b0b-web_1010x1180_transparent_png.webp?mw=207&hash=77D0FF9BB84747AE1865E4699FDBA45D",
+    src: "https://images-eu.nivea.com/-/media/miscellaneous/media-center-items/5/1/1/88c6b39e05ce4c93ad1217472cd8f05a-web_1010x1180_transparent_png.webp?mw=146&hash=F180195591D719CD30FAC743F15DC3F6",
     title: "Fresh Pure Deo Spray",
     price: "2,49 €",
     ml: "150ml",
@@ -10,7 +10,7 @@ export const SmallData = [
   },
   {
     id: 1,
-    src: "https://images-eu.nivea.com/-/media/media-center-items/b/a/7/be8d7bfad31e454596c8ad09b730315f-web_1010x1180_transparent_png.webp?mw=207&hash=291AE1B75CCA261C7694169040297977",
+    src: "https://images-eu.nivea.com/-/media/miscellaneous/media-center-items/e/b/0/5f7b8055c8f84e389e88af33977eb071-web_1010x1180_transparent_png.webp?mw=146&hash=9F1F505420984658ADA3C80ECEEDB490",
     title: "Fresh Pure Deo Spray",
     price: "2,49 €",
     ml: "150ml",
@@ -19,7 +19,7 @@ export const SmallData = [
   },
   {
     id: 2,
-    src: "https://images-eu.nivea.com/-/media/media-center-items/7/a/b/435838d31f574479a477719b611818a7-web_1010x1180_transparent_png.webp?mw=207&hash=5590B54A02154DB88527626AD6313215",
+    src: "https://images-eu.nivea.com/-/media/miscellaneous/media-center-items/e/b/e/4c6a3cc809c643b5a640ef57c1bd0f2a-web_1010x1180_transparent_png.webp?mw=146&hash=492C7A4D4D384BEA550074F2488F9C2C",
     title: "Fresh Pure Deo Spray",
     price: "2,49 €",
     ml: "150ml",
@@ -28,7 +28,7 @@ export const SmallData = [
   },
   {
     id: 3,
-    src: "https://images-eu.nivea.com/-/media/media-center-items/2/2/a/a7e79ab9d9d945e0a68b7dd7c3359b0b-web_1010x1180_transparent_png.webp?mw=207&hash=77D0FF9BB84747AE1865E4699FDBA45D",
+    src: "https://images-eu.nivea.com/-/media/miscellaneous/media-center-items/3/5/e/a886d3b86ae5463192791b9834ca9a96-web_1010x1180_transparent_png.webp?mw=146&hash=C41B25F67A99FD389EEB346C8E41F01F",
     title: "Fresh Pure Deo Spray",
     price: "2,49 €",
     ml: "150ml",
@@ -37,7 +37,7 @@ export const SmallData = [
   },
   {
     id: 4,
-    src: "https://images-eu.nivea.com/-/media/media-center-items/5/b/9/268160-web_1010x1180_transparent_png.webp?mw=207&hash=467CAAD7766CB127005AF7CDBEB4F1C5",
+    src: "https://images-eu.nivea.com/-/media/miscellaneous/media-center-items/1/a/2/91f988596dcb455d886da667d5df1f83-web_1010x1180_transparent_png.webp?mw=146&hash=665180602D3D9DF46BB58E0C16ED11E9",
     title: "Fresh Pure Deo Spray",
     price: "2,49 €",
     ml: "150ml",
@@ -46,7 +46,7 @@ export const SmallData = [
   },
   {
     id: 5,
-    src: "https://images-eu.nivea.com/-/media/media-center-items/f/7/2/1ff752e2c5cb44769332d36b9129076f-web_1010x1180_transparent_png.webp?mw=207&hash=5B379E1186C3A2BB553F25146915F202",
+    src: "https://images-eu.nivea.com/-/media/miscellaneous/media-center-items/1/e/7/378604-web_1010x1180_transparent_png.webp?mw=146&hash=380E42F301AD47F77EC9A026261CF07A",
     title: "Fresh Pure Deo Spray",
     price: "2,49 €",
     ml: "150ml",
@@ -55,7 +55,7 @@ export const SmallData = [
   },
   {
     id: 6,
-    src: "https://images-eu.nivea.com/-/media/media-center-items/2/3/8/365763-web_1010x1180_transparent_png.webp?mw=207&hash=C1B2BBF3966B983BD2C4AB96BFC8CE38",
+    src: "https://images-eu.nivea.com/-/media/miscellaneous/media-center-items/f/d/4/b757cb99509543efac2a1b56d7cee0ea-web_1010x1180_transparent_png.webp?mw=146&hash=21D0D9C1F63BDFCF0A162B095A050D6D",
     title: "Fresh Pure Deo Spray",
     price: "2,49 €",
     ml: "150ml",
@@ -64,20 +64,11 @@ export const SmallData = [
   },
   {
     id: 7,
-    src: "https://images-eu.nivea.com/-/media/media-center-items/2/4/e/dbcce0d5415745be8651e274e60ad739-web_1010x1180_transparent_png.webp?mw=207&hash=54F39776A7F13184E2B89BA7D94636FD",
+    src: "https://images-eu.nivea.com/-/media/miscellaneous/media-center-items/9/4/8/0374cf820ec943538d30d25ab8caff45-web_1010x1180_transparent_png.webp?mw=146&hash=91710068C31321FFF1628473B2511A6A",
     title: "Fresh Pure Deo Spray",
     price: "2,49 €",
     ml: "150ml",
     mlprice: "1 l = 16,60 €",
     active: "Sofort lieferbar cream",
   },
-  // {
-  //   id: 2,
-  //   src: "https://images-eu.nivea.com/-/media/media-center-items/2/7/1/ecb8671d95b74941ac5d53f2f98398b2-web_1010x1180_transparent_png.webp?mw=146&hash=C9CAF7EE5350C51D4DF589EEDBB3F3FB",
-  //   title: "Fresh Pure Deo Spray",
-  //   price: "2,49 €",
-  //   ml: "150ml",
-  //   mlprice: "1 l = 16,60 €",
-  //   active: "Sofort lieferbar",
-  // },
 ];

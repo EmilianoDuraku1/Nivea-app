@@ -71,32 +71,3 @@ export default class Responsive extends Component {
   }
 }
 
-
-// function Trust() {
-//     return (
-//       <section>
-//         <div className="trust-content">
-//           <div className="trust">
-//             <h2>Pflege seit 1911</h2>
-//             <div className="trust-wrapper row">
-//               {TrustData.map((item, index) => (
-//                 <div key={index} className="trust-iner col-xs-3 ">
-//                   <div className="trust-items ">
-//                     <div className="trust-circle">
-//                       <div className="circle-text">
-//                         <span className="num">{item.number}</span>
-//                         <span className="name">{item.name}</span>
-//                       </div>
-//                     </div>
-//                     <div className="trust-dsc">{item.dcs}</div>
-//                   </div>
-//                 </div>
-//               ))}
-//             </div>
-//           </div>
-//         </div>
-//       </section>
-//     );
-// }
-
-// export default Trust;

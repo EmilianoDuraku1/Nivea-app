@@ -1,7 +1,6 @@
 .login {
   z-index: -99;
   background-color: #fff;
-  //   z-index: -1602;
   height: 100%;
   opacity: 0;
   position: fixed !important;
@@ -13,8 +12,6 @@
   text-align: center;
   align-items: center;
   overflow-x: hidden;
-  //   padding-right: 15px;
-  //   padding-left: 15px;
   color: rgb(0, 50, 160);
 
   .row {
@@ -295,15 +292,6 @@
               outline: none;
               color: rgb(0, 50, 160);
             }
-            // .eye-icon.show {
-            //   .show-pass--enabled {
-            //     display: block;
-            //   }
-            //   .show-pass--disable {
-            //     display: none;
-            //   }
-
-            // }
             .eye-icon,
             .show-pass--enabled,
             .show-pass--disable {

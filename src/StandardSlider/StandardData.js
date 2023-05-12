@@ -1,7 +1,7 @@
 export const StandardData = [
   {
     id: 0,
-    src: "https://images-eu.nivea.com/-/media/local/de/schoene-haut/augenringe-0180/niveax/cam_augenringe_keyvisual.webp?rx=0&ry=0&rw=2702&rh=1500&mw=383&hash=4F6477145151FAA03BB4FBF00406D56E",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/gb/dam22/headers/dry_skin_legs_banner_nx20041_body_e-com_02_2443-print.webp?rx=0&ry=309&rw=1010&rh=560&mw=383&hash=9A99EDC1AFF31B07671FDDAB878E67E6c",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",
@@ -9,7 +9,7 @@ export const StandardData = [
   },
   {
     id: 1,
-    src: "https://images-eu.nivea.com/-/media/local/de/schoene-haare/luftige-sommerfrisuren/thumbnail-luftige-sommerfrisuren-neu.webp?rx=0&ry=0&rw=590&rh=327&mw=383&hash=83C3B0606A4E7DA79AD408F79CA2A6BC",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/de/inspiration/geschenke-selber-machen-basteln-und-backen-fuer-ihre-liebsten/geschenke-selber-machen-thumbnail.webp?rx=0&ry=64&rw=590&rh=327&mw=383&hash=E0B4DE446BC863B75A6A5B02F1445DAD",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",
@@ -17,7 +17,7 @@ export const StandardData = [
   },
   {
     id: 2,
-    src: "https://images-eu.nivea.com/-/media/local/de/schoene-haut/gesunde-ernaehrung-0213/gesunde-ernaehrung-thumbnail.webp?rx=0&ry=0&rw=590&rh=327&mw=383&hash=C270C0BB8B48B370C4C41C0CBC292B4C",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/de/schoene-haut/augenringe-0180/niveax/cam_augenringe_keyvisual.webp?rx=568&ry=0&rw=2702&rh=1500&mw=383&hash=206D8FBC11A7613E866357280C20E6E3",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",
@@ -25,7 +25,7 @@ export const StandardData = [
   },
   {
     id: 3,
-    src: "https://images-eu.nivea.com/-/media/local/de/lifestyle/wimpernpflege-tipps-fuer-gesunde-und-schoene-wimpern/wimpernpflege-tipps-fuer-gesunde-und-schoene-wimpern_thumbnail.webp?rx=0&ry=0&rw=590&rh=327&mw=383&hash=241BB3D7943A6A3857EB0B8E13A15D2F",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/gb/dam22/products/stretch_marks_banner_191203_body_brilliance_203-screen.webp?rx=0&ry=333&rw=960&rh=532&mw=383&hash=F07BF396B2211BD0CB97677481FA47F4",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",
@@ -33,7 +33,7 @@ export const StandardData = [
   },
   {
     id: 4,
-    src: "https://images-eu.nivea.com/-/media/local/de/inspiration/geschenke-selber-machen-basteln-und-backen-fuer-ihre-liebsten/geschenke-selber-machen-thumbnail.webp?rx=0&ry=0&rw=590&rh=327&mw=383&hash=A31C41A594FFE4366E468DA6F8195A73",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/gb/nx/pores_banner_1_en_eu_xcat_nx22e02_core_assortment_february_417-screen.webp?rx=0&ry=71&rw=960&rh=532&mw=383&hash=FD5CC936D46CF28464BD9257F5409A96",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",
@@ -41,7 +41,7 @@ export const StandardData = [
   },
   {
     id: 5,
-    src: "https://images-eu.nivea.com/-/media/local/de/baby/baby-fingernaegel-schneiden-sanft-und-sicher/baby-fingernaegel-schneiden-thumbnail.webp?rx=0&ry=0&rw=590&rh=327&mw=383&hash=02F6E753C19E523753BD9544C20CE1E1",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/gb/dam22/lifestyle/000303_en_gl_ndo_deo_joker_nx22_o_01_1507-print.webp?rx=0&ry=91&rw=2806&rh=1557&mw=383&hash=C4385B3C6A924FCB6B7DD0AAA33CF0C7",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",
@@ -49,7 +49,7 @@ export const StandardData = [
   },
   {
     id: 6,
-    src: "https://images-eu.nivea.com/-/media/global/advice/nice-skin/bb-cream-9/bb-cream-thumbnail.webp?rx=0&ry=76&rw=590&rh=327&mw=383&hash=F7E0EF2A83C78BED0EF26EF526E106F2",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/de/schoene-haut/gesunde-ernaehrung-0213/gesunde-ernaehrung-thumbnail.webp?rx=0&ry=64&rw=590&rh=327&mw=383&hash=D2DADEA6EDC1B0534D67E78AFC0C7E5E",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",
@@ -57,7 +57,7 @@ export const StandardData = [
   },
   {
     id: 7,
-    src: "https://images-eu.nivea.com/-/media/local/de/schoene-haut/kopfhaut-pflegen/kopfhaut-pflegen-thumbnail.webp?rx=0&ry=0&rw=590&rh=327&mw=383&hash=F0DDBF8E3372AA169B1842F4C7D35CD9",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/de/lifestyle/wimpernpflege-tipps-fuer-gesunde-und-schoene-wimpern/wimpernpflege-tipps-fuer-gesunde-und-schoene-wimpern_thumbnail.webp?rx=0&ry=64&rw=590&rh=327&mw=383&hash=95AE104D22D413960228258EBC68D14B",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",
@@ -65,7 +65,7 @@ export const StandardData = [
   },
   {
     id: 8,
-    src: "https://images-eu.nivea.com/-/media/local/de/schoene-haare/naturhaarfarbe/zurueck-zur-naturhaarfarbe-thumbnail.webp?rx=0&ry=0&rw=590&rh=327&mw=383&hash=D3FD4933F0C8FA3298D1DBF6C06F3089",
+    src: "https://images-eu.nivea.com/-/media/nivea/local/de/schoene-haut/kopfhaut-pflegen/kopfhaut-pflegen-thumbnail.webp?rx=0&ry=64&rw=590&rh=327&mw=383&hash=3BCE5A51B04E5C2E44C928CB98B91F6F",
     subline: "Gesicht",
     headline: "Was hilft gegen Augenringe und wie entstehen sie?",
     dsc: "Schatten unter den Augen haben unterschiedliche Ursachen. Lesen Sie hier, wie sie entstehen und was Sie dagegen tun können.",

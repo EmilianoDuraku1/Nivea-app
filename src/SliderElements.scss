@@ -1,0 +1,70 @@
+.slick-arrow.slick-next {
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 65px;
+  height: 65px;
+  border-radius: 50px;
+  right: -65px;
+  font-size: 0;
+  line-height: 0;
+  position: absolute;
+  padding: 0;
+  transform: translate(0, -50%);
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+.slick-arrow.slick-next::before {
+  right: 25px;
+  transform: rotate(45deg);
+  content: "";
+  border-right: 1px solid transparent;
+  border-top: 1px solid transparent;
+  border-color: inherit;
+  display: inline-block;
+  position: absolute;
+  top: 22px;
+  width: 22px;
+  height: 22px;
+  color: rgb(0, 50, 160);
+}
+.slick-arrow.slick-prev {
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 65px;
+  height: 65px;
+  border-radius: 50px;
+  right: -65px;
+  font-size: 0;
+  line-height: 0;
+  position: absolute;
+  padding: 0;
+  transform: translate(0, -50%);
+  box-shadow: 0 0 10px 0 #e0e0e0;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+.slick-arrow.slick-prev::before {
+  right: 15px;
+  transform: rotate(225deg);
+  content: "";
+  border-right: 1px solid transparent;
+  border-top: 1px solid transparent;
+  border-color: inherit;
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  width: 24px;
+  height: 24px;
+  color: rgb(0, 50, 160);
+}
+.slick-dots li {
+  margin: 0 !important;
+}
+.slick-dots li.slick-active button:before {
+  opacity: 0.75;
+  color: blue !important;
+}
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before {
+  color: blue;
+}

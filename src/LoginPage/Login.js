@@ -68,13 +68,12 @@ function Login() {
                         className="signin"
                         name="E-Mail-Adresse"
                         title='Geben Sie einen gültigen Wert für "E-Mail-Adresse" ein.'
-                        autofocus=""
                         placeholder="E-Mail-Adresse"
                         aria-label="E-Mail-Adresse"
                       ></input>
                     </div>
                     <div className="entry-item">
-                      <div class="eye-icon" id="eye" onClick={toogleBtn}>
+                      <div className="eye-icon" id="eye" onClick={toogleBtn}>
                         {state ? (
                           <span className="show-pass--enabled">
                             <svg
@@ -125,7 +124,7 @@ function Login() {
                         name="Passwort"
                         placeholder="Passwort"
                         aria-label="Passwort"
-                        autocomplete="current-password"
+                        autoomplete="current-password"
                         aria-required="true"
                       ></input>
                     </div>
@@ -135,7 +134,7 @@ function Login() {
                         type="checkbox"
                         name="rememberMe"
                       ></input>
-                      <label for="rememberMe">Angemeldet bleiben</label>
+                      <label htmlFor="rememberMe">Angemeldet bleiben</label>
                     </div>
                     <div className="button-register">
                       <button className="button">ANMELDEN</button>

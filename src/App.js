@@ -1,5 +1,7 @@
 import { useEffect } from "react";
 import "./App.scss";
+import "./SliderElements.scss";
+import "./Grid.scss";
 import Header from "./Header/Header";
 import Slider from "./Slider/Slider";
 import ProductSelector from "./ProductSelector/ProductSelector";
@@ -26,25 +28,12 @@ function App() {
   useEffect(() => {
     var shopCart = document.getElementById("layer");
     var openCart = document.getElementById("shop-cart");
-    // var closeCart = document.getElementsByClassName("layer-close");
     openCart.onclick = function () {
       shopCart.style.opacity = "1";
       shopCart.style.zIndex = "999";
-      // shopCart.style.display = "block";
     };
-    // closeCart.onclick = function () {
-    //   shopCart.style.opacity = "0";
-    //   shopCart.style.zIndex = "-1";
-    // };
   }, []);
-  // useEffect(() => {
-  //   var sidebarContent = document.getElementById("sidebar");
-  //   var openSidebar = document.getElementById("shop");
-  //   openSidebar.onclick = function () {
-  //     sidebarContent.style.display = "block";
-  //   };
-  // }, []);
- 
+
   return (
     <>
       <div className="big-container">

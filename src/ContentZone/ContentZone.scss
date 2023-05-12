@@ -1,125 +1,122 @@
-.intro-items {
+.intro-text {
   padding: 50px 0px;
-  h2 {
-    color: rgb(0, 50, 160);
-    font-size: 32px;
+  &__title {
     margin: 0px 80px 24px 80px;
-
     padding-top: 40px;
   }
-  p {
+  &__subtitle {
     color: rgb(0, 50, 160);
     font-size: 18px;
     margin: 0 80px;
   }
 }
-.placeholder-content {
+
+.placeholder {
   background-color: rgb(229, 234, 245);
   color: rgb(0, 50, 160);
-  display: flex;
-  flex-direction: column;
   padding: 40px 20px;
-  h3 {
+
+  &__title {
     font-size: 25px;
-    margin-top: 0;
-    margin-bottom: 22px;
     font-weight: 600;
-    line-height: 26px;
+    line-height: 32px;
+    margin-top: 0;
   }
-  p {
+
+  &__description {
     font-size: 18px;
   }
-  .placeholder__btn {
+
+  &__button {
     margin-top: 20px;
   }
-  .placeholder__cb {
+
+  &__checkbox {
     color: rgb(0, 50, 160);
     display: flex;
     flex-direction: row;
     padding: 40px 20px;
     justify-content: center;
-    .cb {
-      display: inline-flex;
-      justify-content: flex-start;
-      flex-direction: row;
+  }
+  &__checkbox-wrapper {
+    align-self: center;
+    align-items: center;
+    background-color: white;
+    display: inline-flex;
+    flex-direction: row;
+    height: 45px;
+    justify-content: flex-start;
+    position: relative;
+    width: 330px;
 
-      align-items: center;
-      align-self: center;
-      background-color: white;
-      width: 330px;
-      height: 45px;
-      position: relative;
-      .chb {
-        cursor: pointer;
-        display: block;
-        right: 2px;
-        height: 25px;
-        // margin-left: 4px;
-        // margin-right: 4px;
-        opacity: 0.77;
-        position: absolute;
-        transition: 0.3s ease-in-out, border-color 0.3s ease-in-out;
-        width: 0;
-      }
-      a {
-        margin-left: 10px;
-        top: 10px;
-        position: absolute;
-      }
-    }
-    .chb::before {
-      background: #e0e0e0;
-      border-radius: 15px;
-      border: 1px solid #e0e0e0;
-      content: "";
-      height: 27px;
-      position: absolute;
-      right: 13px;
-      bottom: 0;
-      width: 55px;
-    }
-
-    .chb::after {
-      right: 43px;
-      bottom: 2px;
-      background: rgb(255, 255, 255);
-      border-radius: 50%;
-      content: "";
+    input {
+      cursor: pointer;
       display: block;
       height: 25px;
-      margin-left: 2px;
-      margin-top: 2px;
+      right: 2px;
       position: absolute;
-       transition: left 0.3s ease-in-out, right 0.3s ease-in-out,
-      box-shadow 0.3s ease-in-out;
-      width: 25px;
+      opacity: 0.77;
+      transition: 0.3s ease-in-out, border-color 0.3s ease-in-out;
+      width: 0;
     }
+  }
+
+  &__checkbox-link {
+    margin-left: 10px;
+    top: 10px;
+    position: absolute;
+  }
+
+  &__checkbox-input::before {
+    background: #e0e0e0;
+    border-radius: 15px;
+    border: 1px solid #e0e0e0;
+    content: "";
+    height: 27px;
+    position: absolute;
+    right: 13px;
+    bottom: 0;
+    width: 55px;
+  }
+
+  &__checkbox-input::after {
+    bottom: 2px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+    content: "";
+    display: block;
+    height: 25px;
+    margin-left: 2px;
+    margin-top: 2px;
+    position: absolute;
+    right: 43px;
+    transition: left 0.3s ease-in-out, right 0.3s ease-in-out,
+      box-shadow 0.3s ease-in-out;
+    width: 25px;
+  }
+
+  &__checkbox-input:checked::after {
+    left: calc(100% - 42px);
+    transition: 0.3s ease-in-out, border-color 0.3s ease-in-out;
+  }
+  &__checkbox-input:checked::before {
+    background-color: rgb(0, 50, 160) !important;
+    transition: 0.3s ease-in-out, border-color 0.3s ease-in-out;
   }
 }
 
-.chb:checked::after {
-  left: calc(100% - 42px);
-  transition:0.3s ease-in-out,border-color 0.3s ease-in-out;
-
-}
-.chb:checked::before{
-  background-color: rgb(0, 50, 160) !important;
-  transition:0.3s ease-in-out,border-color 0.3s ease-in-out;
-}
-
-
-.txt-content {
-  font-size: 13px;
-  color: rgb(0, 50, 160);
-  .txt-items {
-    // margin-top: 35px;
+.text-content {
+  &__wrapper {
     margin-bottom: 25px;
-    .txt {
-      padding-top: 10px;
+  }
 
-      .txt-p {
-        line-height: 26px;
-      }
-    }
+  &__item {
+    padding-top: 10px;
+  }
+
+  &__description {
+    color: rgb(0, 50, 160);
+    font-size: 13px;
+    line-height: 26px;
   }
 }

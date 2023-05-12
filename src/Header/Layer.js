@@ -1,27 +1,20 @@
 import React, { useEffect } from "react";
 
 function Layer() {
-  // const layerClose = (e) => {
-  //   var target = e.target;
-  //   target.closest(".layer-page").classList.toggle("close");
-  // };
   useEffect(() => {
     var shopCart = document.getElementById("layer");
     var closeCart = document.getElementById("close");
     closeCart.onclick = function () {
       shopCart.style.opacity = "0";
       shopCart.style.zIndex = "-1";
-      // shopCart.style.display = "none";
     };
-  }, []);                      
+  }, []);
   return (
     <div className="layer-page" id="layer">
       <div className="layer-wrapper">
         <div
           className="layer-close"
           id="close"
-
-          //   onClick={(e) => layerClose(e)}
         ></div>
         <div className="layer-content">
           <div className="layer-content__wrapper">
@@ -49,11 +42,11 @@ function Layer() {
                   </div>
                   <div className="layer-content__wrapper__content__items__buttons">
                     <p>
-                      <a class="btn-primary" href="/">
+                      <a className="btn-primary" href="/">
                         UNSERE BESTSELLER
                       </a>
                       <br />
-                      <a class="btn-secondary" href="/">
+                      <a className="btn-secondary" href="/">
                         ANMELDEN
                       </a>
                     </p>

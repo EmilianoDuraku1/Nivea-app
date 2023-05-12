@@ -41,17 +41,17 @@ function Search() {
                               viewBox="0 0 32 32"
                             >
                               <circle
-                                class="circle"
+                                className="circle"
                                 cx="16"
                                 cy="16"
                                 r="11.5"
                               ></circle>
                               <path
-                                class="cross-line"
+                                className="cross-line"
                                 d="M20.1781,11.5,11.5,20.1781"
                               ></path>
                               <path
-                                class="cross-line"
+                                className="cross-line"
                                 d="M11.5,11.5l8.6781,8.6781"
                               ></path>
                             </svg>

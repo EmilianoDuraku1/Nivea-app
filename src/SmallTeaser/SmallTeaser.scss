@@ -22,7 +22,6 @@
     background-color: rgb(255, 255, 255);
     padding: 10px;
     position: relative;
-    // margin: 20px;
 
     .s-teaser-img {
       margin-bottom: 5px;
@@ -128,17 +127,10 @@
     display: flex;
     justify-content: center;
     flex-direction: row;
+    gap: 5px;
   }
   .slick-slide {
     width: auto !important;
     margin: 0 auto !important;
   }
-
-  // .slick-active {
-  //   width: auto !important;
-  // }
-
-  // .slick-current {
-  //   width: auto !important;
-  // }
 }

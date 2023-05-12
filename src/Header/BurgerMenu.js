@@ -91,7 +91,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -100,7 +100,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -109,7 +109,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -118,7 +118,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -127,7 +127,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -136,7 +136,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -166,7 +166,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -175,7 +175,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -184,7 +184,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -193,7 +193,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -202,7 +202,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -211,7 +211,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -241,7 +241,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -250,7 +250,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -259,7 +259,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -268,7 +268,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -277,7 +277,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -286,7 +286,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -316,7 +316,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -325,7 +325,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -334,7 +334,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -343,7 +343,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -352,7 +352,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -361,7 +361,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -391,7 +391,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -400,7 +400,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -409,7 +409,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -418,7 +418,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -427,7 +427,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -436,7 +436,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -466,7 +466,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -475,7 +475,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -484,7 +484,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -493,7 +493,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -502,7 +502,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -511,7 +511,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -565,7 +565,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -574,7 +574,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -583,7 +583,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -592,7 +592,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -601,7 +601,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -610,7 +610,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -640,7 +640,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -649,7 +649,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -658,7 +658,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -667,7 +667,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -676,7 +676,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -685,7 +685,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -715,7 +715,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -724,7 +724,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -733,7 +733,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -742,7 +742,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -751,7 +751,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -760,7 +760,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -819,7 +819,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -828,7 +828,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -837,7 +837,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -846,7 +846,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -855,7 +855,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -864,7 +864,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -894,7 +894,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -903,7 +903,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -912,7 +912,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -921,7 +921,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -930,7 +930,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -939,7 +939,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -969,7 +969,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -978,7 +978,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -987,7 +987,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -996,7 +996,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1005,7 +1005,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1014,7 +1014,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1044,7 +1044,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1053,7 +1053,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1062,7 +1062,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1071,7 +1071,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1080,7 +1080,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1089,7 +1089,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1119,7 +1119,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1128,7 +1128,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1137,7 +1137,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1146,7 +1146,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1155,7 +1155,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1164,7 +1164,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1194,7 +1194,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1203,7 +1203,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1212,7 +1212,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1221,7 +1221,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1230,7 +1230,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1239,7 +1239,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1293,7 +1293,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1302,7 +1302,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1311,7 +1311,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1320,7 +1320,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1329,7 +1329,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1338,7 +1338,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1368,7 +1368,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1377,7 +1377,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1386,7 +1386,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1395,7 +1395,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1404,7 +1404,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1413,7 +1413,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1443,7 +1443,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1452,7 +1452,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1461,7 +1461,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1470,7 +1470,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1479,7 +1479,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1488,7 +1488,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1547,7 +1547,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1556,7 +1556,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1565,7 +1565,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1574,7 +1574,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1583,7 +1583,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1592,7 +1592,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1622,7 +1622,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1631,7 +1631,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1640,7 +1640,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1649,7 +1649,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1658,7 +1658,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1667,7 +1667,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1697,7 +1697,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1706,7 +1706,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1715,7 +1715,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1724,7 +1724,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1733,7 +1733,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1742,7 +1742,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1772,7 +1772,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1781,7 +1781,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1790,7 +1790,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1799,7 +1799,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1808,7 +1808,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1817,7 +1817,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1847,7 +1847,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1856,7 +1856,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1865,7 +1865,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1874,7 +1874,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1883,7 +1883,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1892,7 +1892,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -1922,7 +1922,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -1931,7 +1931,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -1940,7 +1940,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -1949,7 +1949,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -1958,7 +1958,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -1967,7 +1967,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2021,7 +2021,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2030,7 +2030,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2039,7 +2039,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2048,7 +2048,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2057,7 +2057,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2066,7 +2066,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2096,7 +2096,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2105,7 +2105,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2114,7 +2114,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2123,7 +2123,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2132,7 +2132,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2141,7 +2141,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2171,7 +2171,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2180,7 +2180,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2189,7 +2189,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2198,7 +2198,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2207,7 +2207,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2216,7 +2216,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2275,7 +2275,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2284,7 +2284,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2293,7 +2293,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2302,7 +2302,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2311,7 +2311,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2320,7 +2320,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2350,7 +2350,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2359,7 +2359,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2368,7 +2368,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2377,7 +2377,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2386,7 +2386,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2395,7 +2395,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2425,7 +2425,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2434,7 +2434,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2443,7 +2443,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2452,7 +2452,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2461,7 +2461,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2470,7 +2470,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2500,7 +2500,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2509,7 +2509,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2518,7 +2518,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2527,7 +2527,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2536,7 +2536,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2545,7 +2545,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2575,7 +2575,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2584,7 +2584,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2593,7 +2593,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2602,7 +2602,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2611,7 +2611,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2620,7 +2620,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2650,7 +2650,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2659,7 +2659,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2668,7 +2668,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2677,7 +2677,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2686,7 +2686,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2695,7 +2695,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2749,7 +2749,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2758,7 +2758,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2767,7 +2767,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2776,7 +2776,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2785,7 +2785,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2794,7 +2794,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2824,7 +2824,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2833,7 +2833,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2842,7 +2842,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2851,7 +2851,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2860,7 +2860,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2869,7 +2869,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -2899,7 +2899,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -2908,7 +2908,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -2917,7 +2917,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -2926,7 +2926,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -2935,7 +2935,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -2944,7 +2944,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3003,7 +3003,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3012,7 +3012,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3021,7 +3021,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3030,7 +3030,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3039,7 +3039,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3048,7 +3048,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3078,7 +3078,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3087,7 +3087,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3096,7 +3096,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3105,7 +3105,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3114,7 +3114,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3123,7 +3123,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3153,7 +3153,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3162,7 +3162,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3171,7 +3171,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3180,7 +3180,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3189,7 +3189,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3198,7 +3198,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3228,7 +3228,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3237,7 +3237,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3246,7 +3246,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3255,7 +3255,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3264,7 +3264,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3273,7 +3273,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3303,7 +3303,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3312,7 +3312,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3321,7 +3321,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3330,7 +3330,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3339,7 +3339,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3348,7 +3348,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3378,7 +3378,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3387,7 +3387,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3396,7 +3396,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3405,7 +3405,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3414,7 +3414,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3423,7 +3423,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3477,7 +3477,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3486,7 +3486,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3495,7 +3495,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3504,7 +3504,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3513,7 +3513,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3522,7 +3522,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3552,7 +3552,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3561,7 +3561,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3570,7 +3570,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3579,7 +3579,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3588,7 +3588,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3597,7 +3597,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
@@ -3627,7 +3627,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/creme-40059002647870001.html"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fotodose
                       </a>
@@ -3636,7 +3636,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/parfum"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Parfum
                       </a>
@@ -3645,7 +3645,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/duftkerze"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Duftkerze
                       </a>
@@ -3654,7 +3654,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/raumduft"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Raumduft
                       </a>
@@ -3663,7 +3663,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/fanartikel"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Fanartikel
                       </a>
@@ -3672,7 +3672,7 @@ function BurgerMenu() {
                     <li className="mob-burger-nav__third-level__item">
                       <a
                         href="/produkte/nur-bei-nivea/sternzeichendose"
-                        class="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
+                        className="nx-mob-burger-nav__item__title nx-mob-burger-nav__third-level__item__title"
                       >
                         Sternzeichendose
                       </a>
