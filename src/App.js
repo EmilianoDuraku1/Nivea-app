@@ -2,28 +2,28 @@ import { useEffect } from "react";
 import "./App.scss";
 import "./SliderElements.scss";
 import "./Grid.scss";
-import Header from "./Header/Header";
-import Slider from "./Slider/Slider";
-import ProductSelector from "./ProductSelector/ProductSelector";
-import Teaser from "./Teaser/Teaser";
-import IntroItems from "./ContentZone/IntroItems";
-import Placeholder from "./ContentZone/Placeholder";
-import TextZone from "./ContentZone/TextZone";
-import ProductSlider from "./ProductSlider/ProductSlider";
-import StandardSlider from "./StandardSlider/StandardSlider";
-import SmallTeaser from "./SmallTeaser/SmallTeaser";
-import Trust from "./Trust/Trust";
-import Social from "./SocialSharing/Social";
-import Footer from "./Footer/Footer";
-import Copyright from "./Footer/Copyright";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Banner from "./PromotionBaner/Banner";
-import Layer from "./Header/Layer";
-import Cookies from "./Cookies/Cookies";
-import Search from "./Search/Search";
-import Login from "./LoginPage/Login";
-
+import Header from "./Components/Header/Header";
+import Slider from "./Components/Slider/Slider";
+import ProductSelector from "./Components/ProductSelector/ProductSelector";
+import Teaser from "./Components/Teaser/Teaser";
+import IntroItems from "./Components/ContentZone/IntroItems";
+import ProductSlider from "./Components/ProductSlider/ProductSlider";
+import StandardSlider from "./Components/StandardSlider/StandardSlider";
+import SmallTeaser from "./Components/SmallTeaser/SmallTeaser";
+import Trust from "./Components/Trust/Trust";
+import Social from "./Components/SocialSharing/Social";
+import Footer from "./Components/Footer/Footer";
+import Copyright from "./Components/Footer/Copyright";
+import Banner from "./Components/PromotionBaner/Banner";
+import Layer from "./Components/Header/Layer";
+import Cookies from "./Components/Cookies/Cookies";
+import Search from "./Components/Search/Search";
+import Login from "./Components/LoginPage/Login";
+import { reveal } from "./helpers";
+import Linear from "./Components/LinearText/Linear";
+import Animation from "./Components/Animation/Animation";
 function App() {
   useEffect(() => {
     var shopCart = document.getElementById("layer");
@@ -34,29 +34,23 @@ function App() {
     };
   }, []);
 
+  window.addEventListener("scroll", reveal);
   return (
     <>
       <div className="big-container">
         <Header />
         <Layer />
         <Search />
-
         <Login />
         <Banner />
-        <Cookies />
+        {/* <Cookies /> */}
         <body>
           <Slider />
-
           <ProductSelector />
-
           <Teaser />
-          <section>
-            <div className="content-wrapper">
-              <IntroItems />
-              <Placeholder />
-              <TextZone />
-            </div>
-          </section>
+          <Linear />
+          <Animation />
+          <IntroItems />
           <ProductSlider />
           <StandardSlider />
           <SmallTeaser />

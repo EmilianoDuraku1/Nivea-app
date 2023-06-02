@@ -1,0 +1,197 @@
+.teaser-sc {
+  padding: 56px 0;
+  .slick-dots {
+    position: absolute;
+    top: -25px;
+    height: 10px;
+    display: block;
+    color: blue;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+    list-style: none;
+
+    text-align: center;
+  }
+  .teaser_wrapper {
+    background-color: rgb(255, 255, 255);
+    margin: 15px;
+    width: 100%;
+    cursor: pointer;
+    padding: 10px 0px;
+    position: relative;
+    .teaser-img {
+      display: flex;
+      justify-content: center;
+      height: 250px;
+      margin-bottom: 18px;
+    }
+    .teaser-rating {
+      display: inline-flex;
+      margin-bottom: 5px;
+      .star {
+        color: rgb(254, 145, 25);
+        margin: 0 5px;
+        font-size: 23px;
+        height: 22px;
+      }
+      .count {
+        font-size: 15px;
+        line-height: 20px;
+        color: var(--ThirdFontColor, #b7b7b7);
+      }
+    }
+    .teaser-tittle {
+      color: rgb(0, 50, 160);
+      margin-bottom: 2px;
+      margin-top: 0;
+      -webkit-line-clamp: 2;
+      font-size: 20px;
+      font-weight: 500;
+      height: 66px;
+      text-transform: uppercase;
+      width: 100%;
+    }
+    .teaser-dsc {
+      display: block;
+      .teaser-price {
+        display: inline-flex;
+        justify-content: center;
+        color: rgb(0, 50, 160);
+
+        .ml {
+          font-size: 14px;
+          line-height: 18px;
+          margin: 2px;
+          text-align: center;
+        }
+        .ml:first-of-type {
+          color: rgb(153, 153, 153);
+          text-decoration: line-through;
+        }
+        .price {
+          font-size: 18px;
+          font-weight: 620;
+          line-height: 18px;
+          margin: 2px 8px 6px 2px;
+        }
+        svg {
+          width: 18px;
+          margin-top: 2px;
+          fill: rgb(0, 50, 160);
+        }
+      }
+      .ml-price {
+        color: rgb(153, 153, 153);
+        font-size: 12px;
+        line-height: 15px;
+        padding: 5px 0;
+      }
+
+      .active {
+        box-sizing: border-box;
+        color: rgb(0, 50, 160);
+        font-size: 12px;
+        line-height: 16px;
+        margin-top: 5px;
+      }
+      .active::before {
+        margin-right: 4px;
+        background: rgb(100, 167, 11);
+        border-radius: 50%;
+        content: "";
+        display: inline-block;
+        height: 10px;
+        width: 10px;
+      }
+    }
+  }
+
+  .add-to-cart {
+    position: absolute;
+    right: 40px;
+    transform: translateY(-50%);
+    top: 50%;
+    .add-teaser {
+      background: rgb(254, 145, 25);
+      border-radius: 50px;
+      border: 1px solid rgb(254, 145, 25);
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+    }
+    svg {
+      color: rgb(254, 145, 25);
+      fill: rgb(255, 255, 255);
+      width: 24px;
+    }
+    .add-teaser:hover {
+      background-color: rgb(248, 181, 48);
+      border-color: rgb(248, 181, 48);
+      transition: all 0.25s;
+      svg {
+        fill: gainsboro;
+      }
+    }
+  }
+}
+.slick-list {
+  .teaser_wrapper:hover {
+    box-shadow: 0 0 20px 1px #e0e0e0;
+    transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+    cursor: pointer;
+    .teaser-img {
+      transform: scale3d(1.05, 1.05, 1) translateZ(0);
+      transition: transform 0.8s cubic-bezier(0.095, 0.33, 0.285, 1) 25ms;
+    }
+  }
+}
+.article-slider {
+  width: 100%;
+  display: flex !important ;
+  justify-content: center;
+}
+
+.nx-tooltip {
+  display: inline-block;
+  position: relative;
+  z-index: 520;
+  visibility: hidden;
+  opacity: 1;
+  transition: 0.3s ease-in-out;
+  &__content {
+    position: absolute;
+    bottom: calc(100% + 40px);
+    background-color: #eff5fa;
+    border: 1px solid #d6dcec;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    left: -10px;
+    max-width: 333px;
+    padding: 16px 22px;
+    top: auto;
+    width: 100vw;
+    will-change: opacity, z-index;
+    z-index: 520;
+  }
+
+  &__icon::before {
+    background-color: #eff5fa;
+    box-shadow: 1px -1px 0 0 hsla(0, 0%, 70%, 0.4);
+    content: "\00a0";
+    height: 20px;
+    position: absolute;
+    top: -50px;
+    transform: translate(-8%) rotate(135deg);
+    z-index: 520;
+    width: 20px;
+    will-change: opacity, z-index;
+  }
+}
+.svg.open .nx-tooltip {
+  visibility: visible;
+  opacity: 1;
+  transition: 0.3s ease-in-out;
+}

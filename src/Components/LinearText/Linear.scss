@@ -1,0 +1,43 @@
+.linear-text {
+  background-color: rgb(0, 50, 160);
+  padding-top: 120px;
+  padding-bottom: 120px;
+  margin-top: 120px;
+  margin-bottom: 120px;
+
+  &__content {
+    line-height: 1;
+    font-size: 250px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    overflow: visible;
+    width: 200vw;
+    position: relative;
+    white-space: nowrap;
+    transform: translateX(-150%);
+  }
+
+  &__content > span {
+    padding-left: 100%;
+    -webkit-animation: marquee 7s linear infinite;
+    animation: marquee 7s linear infinite;
+    position: relative;
+
+    span {
+      opacity: 0.5;
+      color: transparent;
+      -webkit-text-stroke: 2px;
+      -webkit-text-stroke-color: white;
+    }
+  }
+
+  @keyframes marquee {
+    0% {
+      padding-left: 200%;
+    }
+    100% {
+      padding-left: 0;
+    }
+  }
+}
